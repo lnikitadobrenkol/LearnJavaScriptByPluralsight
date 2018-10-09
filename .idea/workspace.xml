@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d6da99-a360-4f1a-b36f-be3ca6c1156a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/fibBinet/fibBinet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/fibBinet/fibBinet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/getDecimal/getDecimal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/getDecimal/getDecimal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/inputSum/inputSum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/inputSum/inputSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/spumFounder/spumFounder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/spumFounder/spumFounder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/truncate/truncate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/truncate/truncate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scoping exercises/What is the result/What is the result.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scoping exercises/What is the result/What is the result.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,15 +33,15 @@
         <counts>
           <entry key="editorconfig" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="9" />
-          <entry key="js" value="22" />
+          <entry key="html" value="13" />
+          <entry key="js" value="27" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="9" />
-          <entry key="JavaScript" value="22" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="27" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -50,14 +49,14 @@
         <counts>
           <entry key="dummy" value="10" />
           <entry key="gitignore" value="13" />
-          <entry key="html" value="72" />
-          <entry key="js" value="1531" />
+          <entry key="html" value="103" />
+          <entry key="js" value="2730" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="72" />
-          <entry key="JavaScript" value="1531" />
+          <entry key="HTML" value="103" />
+          <entry key="JavaScript" value="2730" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
@@ -67,7 +66,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-390">
@@ -75,6 +74,51 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strings/spumFounder/spumFounder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/truncate/truncate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strings/truncate/truncate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -125,6 +169,14 @@
         <option value="$PROJECT_DIR$/workWithNumbers/fibBinet/fibBinet.js" />
         <option value="$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.html" />
         <option value="$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.js" />
+        <option value="$PROJECT_DIR$/Strings/StartFromUpperCase.html" />
+        <option value="$PROJECT_DIR$/Strings/StartFromUpperCase.js" />
+        <option value="$PROJECT_DIR$/Strings/spumFounder/spumFounder.js" />
+        <option value="$PROJECT_DIR$/Strings/spumFounder/spumFounder.html" />
+        <option value="$PROJECT_DIR$/Strings/truncate/truncate.html" />
+        <option value="$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.html" />
+        <option value="$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.js" />
+        <option value="$PROJECT_DIR$/Strings/truncate/truncate.js" />
       </list>
     </option>
   </component>
@@ -158,13 +210,13 @@
             <path>
               <item name="LearnJavaScriptByPluralsight" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaScriptByPluralsight" type="462c0819:PsiDirectoryNode" />
-              <item name="workWithNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJavaScriptByPluralsight" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaScriptByPluralsight" type="462c0819:PsiDirectoryNode" />
-              <item name="workWithNumbers" type="462c0819:PsiDirectoryNode" />
-              <item name="minMaxFunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="truncate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,6 +229,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nido\Documents\GitHub\LearnJavaScriptByPluralsight\Strings\startFromUpperCase" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,12 +257,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538995636221</updated>
-      <workItem from="1538995637401" duration="12348000" />
+      <workItem from="1538995637401" duration="18656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12348000" />
+    <option name="totallyTimeSpent" value="18656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -451,6 +508,62 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/spumFounder/spumFounder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/spumFounder/spumFounder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/truncate/truncate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/truncate/truncate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
