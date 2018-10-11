@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06d6da99-a360-4f1a-b36f-be3ca6c1156a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/extractCurrencyValue/extractCurrencyValue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/spumFounder/spumFounder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/spumFounder/spumFounder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/truncate/truncate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/truncate/truncate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06d6da99-a360-4f1a-b36f-be3ca6c1156a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,6 +15,7 @@
     <session id="-566745138">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -65,74 +56,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-390">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/spumFounder/spumFounder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Strings/truncate/truncate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/truncate/truncate.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/startFromUpperCase/StartFromUpperCase.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workWithNumbers/minMaxFunctions/minMaxFunctions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -199,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,21 +130,11 @@
               <item name="LearnJavaScriptByPluralsight" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaScriptByPluralsight" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LearnJavaScriptByPluralsight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaScriptByPluralsight" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJavaScriptByPluralsight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaScriptByPluralsight" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="truncate" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,19 +175,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18656000" />
+    <option name="totallyTimeSpent" value="19063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3295082" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -282,6 +190,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,16 +228,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What is the result/What is the result.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scoping exercises/What is the result of the following code.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What is the result/What is the result.js" />
+    <entry file="file://$PROJECT_DIR$/Scoping exercises/What is the result of the following code.js" />
     <entry file="file://$PROJECT_DIR$/Scoping exercises/What is the result of the following code/What is the result of the following code.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -333,13 +237,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What is the result of the following code/What is the result of the following code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What is the result of the following code/What is the result of the following code.js" />
     <entry file="file://$PROJECT_DIR$/Scoping exercises/What is the result of the following code/What is the result of the following code.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -354,13 +252,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What will you see in the console for the following example/What will you see in the console for the following example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What will you see in the console for the following example/What will you see in the console for the following example.js" />
     <entry file="file://$PROJECT_DIR$/Scoping exercises/What will you see in the console for the following example/What will you see in the console for the following example.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -375,16 +267,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What’s the result of executing this code and why/What’s the result of executing this code and why.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/LearnJavaScriptByPluralsight/Scoping exercises/What’s the result of executing this code and why/What’s the result of executing this code and why.js" />
+    <entry file="file://$USER_HOME$/Desktop/.editorconfig" />
     <entry file="file://$PROJECT_DIR$/Scoping exercises/What’s the result of executing this code and why/What’s the result of executing this code and why.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -399,13 +283,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../LearnJavaScript/WebstormProjects/LearnJavaScript/Loops/switch/swithc_to_if/swithc_to_if.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CounXInArrFunction/CounXInArrFunction.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -442,9 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workWithNumbers/getDecimal.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/workWithNumbers/getDecimal.js" />
     <entry file="file://$PROJECT_DIR$/workWithNumbers/inputSum/inputSum.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -466,13 +342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scoping exercises/What is the result/оопо.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Scoping exercises/What is the result/оопо.html" />
     <entry file="file://$PROJECT_DIR$/../LearnJavaScript/WebstormProjects/LearnJavaScript/Recursion/fibonachi/fibonachi.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
