@@ -16,3 +16,28 @@ let calculator = {
 calculator.read();
 alert( calculator.sum() );
 alert( calculator.mul() );
+
+
+// Throw the constructor
+
+function Calculator2() {
+
+    this.read = function() {
+        this.a = +prompt('a?', "");
+        this.b = +prompt('b?', "");
+    };
+
+    this.sum = function() {
+        return this.a + this.b;
+    };
+
+    this.mul = function() {
+        return this.a * this.b;
+    };
+}
+
+let calculator2 = new Calculator2();
+calculator2.read();
+
+alert( "Сумма=" + calculator2.sum() );
+alert( "Произведение=" + calculator2.mul() );
